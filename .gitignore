@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.DS_Store
+# 内部业务背景文档，不随公开仓库发布
+项目背景资料.md
